@@ -1,3 +1,9 @@
+This is the link to my repo: [https://github.com/renad-lab/fortify-exploring-layouts-1]
+
+This is the link to my #2 submission work: [https://renad-lab.github.io/fortify-exploring-layouts-1/2-submission_work/index.html]
+
+This is the link to the entire lab with the 3 challenges: [https://renad-lab.github.io/fortify-exploring-layouts-1/]
+
 # Fortify: Exploring Layouts
 
 Hey there! Welcome to the Fortify: Exploring Layouts assignment! This is where I'll be diving into the fascinating world of web layouts, getting hands-on experience with different layout patterns, and sharpening my skills along the way.
@@ -25,9 +31,3 @@ To guide me along this journey, I'll have access to some handy resources:
 - [CSS Grid Layout Guide](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Grid_Layout)
 - [Best Grid Layout Video](https://www.youtube.com/watch?v=7kVeCqQCxlk)
 - Practical Guide (I'll add any relevant links or tutorials that I find helpful)
-
-This is the link to my repo: [https://github.com/renad-lab/fortify-exploring-layouts-1]
-
-This is the link to my #2 submission work: [https://renad-lab.github.io/fortify-exploring-layouts-1/2-submission_work/index.html]
-
-This is the link to the entire lab with the 3 challenges: [https://renad-lab.github.io/fortify-exploring-layouts-1/]
